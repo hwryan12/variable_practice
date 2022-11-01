@@ -22,3 +22,9 @@ started mod0 = true
 email = "practice@gmail.com"
 name = "John Smith"
 drink = "Coka-Cola"
+ 
+#Puts
+puts email
+puts age
+puts money
+puts drank coffee
