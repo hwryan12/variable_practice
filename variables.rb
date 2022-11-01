@@ -12,3 +12,8 @@ day = 1
 money = 100.00
 temp = 64.5
 pi = 3.14
+
+#Booleans
+drank coffee = true
+had lunch = false
+started mod0 = true
