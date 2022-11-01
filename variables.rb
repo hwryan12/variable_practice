@@ -17,3 +17,8 @@ pi = 3.14
 drank coffee = true
 had lunch = false
 started mod0 = true
+
+#Reassign String variables
+email = "practice@gmail.com"
+name = "John Smith"
+drink = "Coka-Cola"
