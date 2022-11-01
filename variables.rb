@@ -14,9 +14,9 @@ temp = 64.5
 pi = 3.14
 
 #Booleans
-drank coffee = true
-had lunch = false
-started mod0 = true
+drank_coffee = true
+had_lunch = false
+started_mod0 = true
 
 #Reassign String variables
 email = "practice@gmail.com"
@@ -27,4 +27,4 @@ drink = "Coka-Cola"
 puts email
 puts age
 puts money
-puts drank coffee
+puts drank_coffee
